@@ -12,7 +12,7 @@ A continuació presento 3 serveis que ofereix la meva empresa de ciberseguretat:
 
 ## 1. Auditoria de Seguretat
 
-![Auditoria](https://images.unsplash.com/photo-1581091870629-9a5f1d5b6c6f?auto=format&fit=crop&w=800&q=60)
+![Auditoria](https://www.cibernos.com/hubfs/ciberseguridad.png)
 
 Una revisió completa dels sistemes i aplicacions per detectar vulnerabilitats abans que els atacants ho facin.  
 [Més informació](https://www.example.com/auditoria)
@@ -21,7 +21,7 @@ Una revisió completa dels sistemes i aplicacions per detectar vulnerabilitats a
 
 ## 2. Monitoratge de Xarxa
 
-![Monitoratge](https://images.unsplash.com/photo-1581093458415-b3b5f1b6c7d5?auto=format&fit=crop&w=800&q=60)
+![Monitoratge](https://www.incibe.es/sites/default/files/contenidos/blog/monitorizando_sci.jpg)
 
 Supervisió constant de la xarxa per detectar activitats sospitoses i prevenir intrusions.  
 [Més informació](https://www.example.com/monitoratge)
@@ -30,7 +30,7 @@ Supervisió constant de la xarxa per detectar activitats sospitoses i prevenir i
 
 ## 3. Formació i Sensibilització
 
-![Formació](https://images.unsplash.com/photo-1581093213242-7d3f6f6c6a0b?auto=format&fit=crop&w=800&q=60)
+![Formació](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-2VG86Ns10wyzdHroTZd8IoGAA8h40-IWQ&s)
 
 Capacitem el personal en bones pràctiques de seguretat, phishing, contrasenyes i ús segur de la informació.  
 [Més informació](https://www.example.com/formacio)
